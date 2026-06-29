@@ -29,7 +29,7 @@ This project analyzes retail sales data using Microsoft Excel. An interactive da
 
 ## 📊 Dashboard Preview
 
-(Add your dashboard screenshot here after uploading dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 💡 Business Insights
 
